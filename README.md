@@ -50,6 +50,10 @@ Can machine learning predict a higher success rate? If so then what do the succe
 
 Is the succes rate prediction in machine learning the same as what the data in Tableau has shown?
 
+## Data clean up
+
+The data set contains over 34,000 rows of data and all rows contain the relevant information. The only initial clean up that was needed involved changing a those rows that contained the 'date' Jan-99 in the Income_Amt column. The data contained in this is a range of numerical data. So using Excel find and replace, Jan-99 was replaced with the income range 0-1999. Over 700 rows were amended.
+
 ## Findings 
 
 ## Limitations regarding the data set

@@ -64,15 +64,19 @@ This dataset from Alphabet Soup contains 34, 299 applications. Of those applicat
 
 The successful campaigns are classified as a Trust. With 75.61% of overall successful applications. Compared to a Corporation which amounts to 0.18% of overall successful applications.
 
-![plot](Images_HF/Successful_data.png) 
+![plot](Images_HF/Successfull_data.png) 
 
 The amount asked for from these successful campaigns classified as a Trust organisations is 30, 456, 770, 364 that is 75.61% with only 13, 808 of the 34,299 applications.
 
-![plot](Images_HF/Amount_perorganisation_data.png) 
+![plot](Images_HF/Amounts_perorganization_data.png) 
 
 The money is being used for preservation of the charity that is applying. This makes preservation the top reason for charity applications at 84.55%, with only 8,380 of the overall applications.
 
+![plot](Images_HF/Use_case_spend.png)
+
 This dataset shows us the income amount of the charity. And the more successful applications are charities with an income of 25,000 to 99,999, with preservation as the reason.
+
+![plot](Images_HF/Income_amount_data.png)
 
 Looking at the amount asked for in relation to the income amount we see that those with a higher income 50M+ ask for more compared to those with a lower income amount. This is not surprising as it is to be expected that those with a higher income need more to sustain their charity.
 

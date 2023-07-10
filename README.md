@@ -54,7 +54,15 @@ Is the succes rate prediction in machine learning the same as what the data in T
 
 The data set contains over 34,000 rows of data and all rows contain the relevant information. The only initial clean up that was needed involved changing a those rows that contained the 'date' Jan-99 in the Income_Amt column. The data contained in this is a range of numerical data. So using Excel find and replace, Jan-99 was replaced with the income range 0-1999. Over 700 rows were amended.
 
-## Findings 
+## Analysis
+
+[**Tableau dashboard story - HF**](https://public.tableau.com/app/profile/hayley.fuller/viz/Project4-Charitydata/Charitydataanalysis)
+
+**Analysis of charity data using Tableau**
+
+The following are common features found in all successful campaigns.
+
+1) 
 
 ## Limitations regarding the data set
 

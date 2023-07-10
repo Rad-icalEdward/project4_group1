@@ -64,6 +64,8 @@ This dataset from Alphabet Soup contains 34, 299 applications. Of those applicat
 
 The successful campaigns are classified as a Trust. With 75.61% of overall successful applications. Compared to a Corporation which amounts to 0.18% of overall successful applications.
 
+![plot](Images_HF/Successful_data.png) 
+
 The amount asked for from these successful campaigns classified as a Trust organisations is 30, 456, 770, 364 that is 75.61% with only 13, 808 of the 34,299 applications.
 
 The money is being used for preservation of the charity that is applying. This makes preservation the top reason for charity applications at 84.55%, with only 8,380 of the overall applications.

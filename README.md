@@ -68,6 +68,8 @@ The successful campaigns are classified as a Trust. With 75.61% of overall succe
 
 The amount asked for from these successful campaigns classified as a Trust organisations is 30, 456, 770, 364 that is 75.61% with only 13, 808 of the 34,299 applications.
 
+![plot](Images_HF/Amount_perorganisation_data.png) 
+
 The money is being used for preservation of the charity that is applying. This makes preservation the top reason for charity applications at 84.55%, with only 8,380 of the overall applications.
 
 This dataset shows us the income amount of the charity. And the more successful applications are charities with an income of 25,000 to 99,999, with preservation as the reason.

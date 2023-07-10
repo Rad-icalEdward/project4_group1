@@ -14,25 +14,16 @@ Using a dataset solve, analyze, or visualize a problem using machine learning (M
 
 5) You must use at least two of the following:
 
-    * Python Pandas
-
-    * Python Matplotlib
-
-    * HTML/CSS/Bootstrap
-
-    * JavaScript Plotly
-
-    * JavaScript Leaflet
-
-    * SQL Database
-
-    * MongoDB Database
-
-    * Google Cloud SQL
-
-    * Amazon AWS
-
-    * Tableau
+* Python Pandas
+* Python Matplotlib
+* HTML/CSS/Bootstrap
+* JavaScript Plotly
+* JavaScript Leaflet
+* SQL Database
+* MongoDB Database
+* Google Cloud SQL
+* Amazon AWS
+* Tableau
 
 ## The data set
 
@@ -44,11 +35,13 @@ We will be focussing our findings on answering the following questions:
 
 Tableau shows us that around 75-80% of campaigns were classified as successful, so how can machine learning make this % better?
 
+Using Tableau what further analysis can we find. How do these findings compare to machine learning?
+
 What will machine learning do to predict a successful campaign?
 
-Can machine learning predict a higher success rate? If so then what do the successful campaigns need?
+Can machine learning predict a higher success rate? If so then what does a successful campaigns need?
 
-Is the succes rate prediction in machine learning the same as what the data in Tableau has shown?
+Is the succes rate prediction in machine learning the same as the data in Tableau?
 
 ## Data clean up
 

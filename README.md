@@ -102,6 +102,7 @@ III. Feature Engineering:
 Selecting the features that best capture the pattern in the dataset (give us the best correlation) in order to improve a model's quality of predictions, by using tools like Random Forest -helps selecting those columns that improve a model prediction-, or Gridsearch that gives the best combination of parameters.
 
 
+
 **Overall conclusion is that for a campaign to be successful they need to have the following attributes…**
 
 1.	Have an income amount of 25,000 to 99,999

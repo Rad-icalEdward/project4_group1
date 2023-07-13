@@ -87,7 +87,7 @@ Out of the 34,000+ organisations that received funding from Alphabet Soup over t
 3. Recall: percentage of correctly predicted positive observations to all predicted observations for that class: TP / (TP + FN). .High recall correlates to a low false negative rate.
 Of all the organisations that received funding the model correctly predicted 93% of the time which organisations didn’t use the money effectively; and out of all the organisations that actually used the money effectively, the model only predicted this outcome correctly for 25% of those organisations.
 
-# ML Classification Report - CONCLUSION
+# ML Classification Report - Conclusion
 a) According to the Classification Report results, the model was correct 57% of the time which is not very accurate. 
 b) Recall is the most reliable metric to consider, as the model is able to correctly predict 93% of the time which organisations will fail to use the money effectively.
 

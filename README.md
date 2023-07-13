@@ -73,6 +73,35 @@ This dataset shows us the income amount of the charity. And the more successful 
 
 Looking at the amount asked for in relation to the income amount we see that those with a higher income 50M+ ask for more compared to those with a lower income amount. This is not surprising as it is to be expected that those with a higher income need more to sustain their charity.
 
+
+## Supervised ML - Classification Report 
+A Classification Report measures a model's quality of predictions using 3 metrics
+![image](https://github.com/Rad-icalEdward/project4_group1/assets/122496169/da7e721b-91d3-48ec-937b-8666e74bc4a8)
+
+1. Accuracy: how often the model is correct, the percentage of correctly predicted observations to the total number of observations for the entire dataset. How many Trues (TP +TN) over all outcomes (TP + TN) / (TP + TN + FP + FN).
+The model was right/accurate 57% of the time.
+
+2. Precision: percentage of correctly predicted positive observations to the total predicted positive observations. High precision relates to a low false positive rate, how many true positives I had over all positives: TP / (TP + FP).
+Out of the 34,000+ organisations that received funding from Alphabet Soup over the years, 79% used the money effectively.
+
+3. Recall: percentage of correctly predicted positive observations to all predicted observations for that class: TP / (TP + FN). .High recall correlates to a low false negative rate.
+Of all the organisations that received funding the model correctly predicted 93% of the time which organisations didn’t use the money effectively; and out of all the organisations that actually used the money effectively, the model only predicted this outcome correctly for 25% of those organisations.
+
+# ML Classification Report - CONCLUSION
+a) According to the Classification Report results, the model was correct 57% of the time which is not very accurate. 
+b) Recall is the most reliable metric to consider, as the model is able to correctly predict 93% of the time which organisations will fail to use the money effectively.
+
+In order to improve the model Accuracy it would be recommended to:
+
+I. Add more datapoints in order to improve the model accuracy, as well as to
+
+II. Further Exploratory Data Analysis: 
+E.g.: Avoid Class Imbalance (Oversampling vs Undersampling) in order to have a balanced dataset. For this dataset this analysis was done using the class_counts function, which showed that this dataset is slightly unbalanced as ~53% of organisations used the money effectively against ~47% that didn't.
+
+III. Feature Engineering: 
+Selecting the features that best capture the pattern in the dataset (give us the best correlation) in order to improve a model's quality of predictions, by using tools like Random Forest -helps selecting those columns that improve a model prediction-, or Gridsearch that gives the best combination of parameters.
+
+
 **Overall conclusion is that for a campaign to be successful they need to have the following attributes…**
 
 1.	Have an income amount of 25,000 to 99,999

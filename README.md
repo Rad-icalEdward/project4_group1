@@ -109,13 +109,11 @@ Selecting the features that best capture the pattern in the dataset (give us the
 
 **Overall conclusion is that for a campaign to be successful they need to have the following attributes…**
 
-1.	Have an income amount of 25,000 to 99,999
-2.	Be needing the money to preserve the charity
-3.	And be a Trust, rather than an Association, Corporation or Co-operative
-
-**Analysis of charity data using Tableau - LR**
-
-WRITE FINDINGS HERE
+1.  Be independantly affiliated
+2.	Have an income amount of 25,000 to 99,999
+3.	Be needing the money to preserve the charity
+4.	And be a Trust, rather than an Association, Corporation or Co-operative
+   
 
 **Analysis of charity data using Machine Learning - AG, JB & DL**
 

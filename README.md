@@ -55,7 +55,7 @@ The data set contains over 34,000 rows of data and all rows contain the relevant
 
 This dataset from Alphabet Soup contains 34, 299 applications. Of those applications the majority of campaigns were successful.
 
-We looked at how the affiliation of a chairty had an effect on the success rate of the campaign, and found that 71% of the successful campaigns were from independant affiliations, 28.5% were from Company Sponsored. FamilyParent and National Affiliations has a success rate of 0.2% and 0.1% respectively, with a negligible amount of successful campaigns from Regional or Other affiliations.
+We looked at how the affiliation of a charity had an effect on the success rate of the campaign, and found that 71% of the successful campaigns were from independant affiliations, 28.5% were from Company Sponsored. FamilyParent and National Affiliations had a success rate of 0.2% and 0.1% respectively, with a negligible amount of successful campaigns from Regional or Other affiliations.
 
 ![image](https://github.com/Rad-icalEdward/project4_group1/assets/123327719/282a2825-8e01-4304-b3e6-dd229087a3bd)
 

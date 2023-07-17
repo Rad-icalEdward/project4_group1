@@ -77,6 +77,32 @@ This dataset shows us the income amount of the charity. And the more successful 
 
 Looking at the amount asked for in relation to the income amount we see that those with a higher income 50M+ ask for more compared to those with a lower income amount. This is not surprising as it is to be expected that those with a higher income need more to sustain their charity.
 
+**Analysis of charity data using Machine Learning - AG**
+
+WRITE FINDINGS HERE
+
+**Graphs to analyse model effectiveness - JB**
+
+I used the provided 3 attempts for the model, the first was the initial model and the second and third were successive attempts to optimise and improve the model's effectiveness and accuracy.
+
+I used MatPlotLib to create graphs for the accuracy and loss scores for each attempt on the model.
+
+These graphs for the models' accuracy scores show us that the models are working as expected because the training and validation lines both show accuracy increasing over time.
+
+![model_one_accuracy](https://github.com/Rad-icalEdward/project4_group1/assets/121570218/b8d58b2b-beff-4698-a6eb-e2b7f0388c0c)
+
+![model_two_accuracy](https://github.com/Rad-icalEdward/project4_group1/assets/121570218/b4a8b4b5-ccbf-43e4-ba30-5507855427b3)
+
+![model_three_accuracy](https://github.com/Rad-icalEdward/project4_group1/assets/121570218/060b7c9f-4ff0-4495-8981-fe431ebe28aa)
+
+The loss graphs for the 1st and 2nd attempts at the model show they are working as expected as the training and validation loss scores both decrease over time.
+However, the graph for the 3rd attempt indicates that it may be ‘overfitting’, i.e. matching too closely to the training data, and failing to fit well to the additional, testing data.
+
+![model_one_loss](https://github.com/Rad-icalEdward/project4_group1/assets/121570218/cebd2d4f-4efe-46f7-8462-2747a9966526)
+
+![model_two_loss](https://github.com/Rad-icalEdward/project4_group1/assets/121570218/3d259e90-b979-4358-a3aa-d42219ef933d)
+
+![model_three_loss](https://github.com/Rad-icalEdward/project4_group1/assets/121570218/6c04bf6d-934d-4fe1-9690-0015f4361e79)
 
 ## Supervised ML - Classification Report 
 A Classification Report measures a model's quality of predictions using 3 metrics
@@ -105,19 +131,12 @@ E.g.: Avoid Class Imbalance (Oversampling vs Undersampling) in order to have a b
 III. Feature Engineering: 
 Selecting the features that best capture the pattern in the dataset (give us the best correlation) in order to improve a model's quality of predictions, by using tools like Random Forest -helps selecting those columns that improve a model prediction-, or Gridsearch that gives the best combination of parameters.
 
-
-
 **Overall conclusion is that for a campaign to be successful they need to have the following attributes…**
 
 1.  Be independantly affiliated
 2.	Have an income amount of 25,000 to 99,999
 3.	Be needing the money to preserve the charity
 4.	And be a Trust, rather than an Association, Corporation or Co-operative
-   
-
-**Analysis of charity data using Machine Learning - AG, JB & DL**
-
-WRITE FINDINGS HERE
 
 ## Limitations regarding the data set
 

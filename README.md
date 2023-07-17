@@ -83,7 +83,7 @@ WRITE FINDINGS HERE
 
 **Graphs to analyse model effectiveness - JB**
 
-I used the provided 3 attempts for the model, the first was the initial model and the second and third were successive attempts to optimise and improve the model's effectiveness and accuracy.
+In AlphabetSoupCharity_Plots.ipynb I used the provided 3 attempts for the model, the first was the initial model and the second and third were successive attempts to optimise and improve the model's effectiveness and accuracy.
 
 I used MatPlotLib to create graphs for the accuracy and loss scores for each attempt on the model.
 

@@ -78,8 +78,16 @@ This dataset shows us the income amount of the charity. And the more successful 
 Looking at the amount asked for in relation to the income amount we see that those with a higher income 50M+ ask for more compared to those with a lower income amount. This is not surprising as it is to be expected that those with a higher income need more to sustain their charity.
 
 **Analysis of charity data using Machine Learning - AG**
-
-WRITE FINDINGS HERE
+## Preprocessing 
+- Based on the raw data (CSV) found from the API source, preprocessing ( the first step) has been carred out which includes:
+     - Removal of redundant features
+     - Spliting of the data in to independent variables ( features) and dependent variable (target variable)
+     - Splting of the data in to train and test data for both features and target respectively
+## Compiling, training , Evaluating and optimizing the model 
+  - the second step is compiling, training and evaluating the the outcome
+  - the third step is optimizing the model by carrying out three models by changing the structure of the neuron network structure
+## Analysis 
+ -  Accuracy of the three model has been found 74, 57 and 76% respectively. Hence, the model with higher accuracy is the feasible model for the project.
 
 **Graphs to analyse model effectiveness - JB**
 
